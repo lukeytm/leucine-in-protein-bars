@@ -2,7 +2,7 @@
 
 Leucine and protein figures for 16 protein bars, with collagen and on-sale status. Most brands don't print leucine, so this table shows which figures come from labels or brands and which are estimates.
 
-Download [`leucine-in-protein-bars.csv`](leucine-in-protein-bars.csv).
+Download [`leucine-in-protein-bars.csv`](leucine-in-protein-bars.csv). Or [filter and sort the table](https://lukeytm.github.io/leucine-in-protein-bars/).
 
 ## Who made this
 
